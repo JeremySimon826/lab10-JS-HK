@@ -30,7 +30,7 @@ def logarithm(a, b):
 def exponent(a,b):
     return a**b
 
-git add .
+git add ./calculator.py
 git commit -m "modified calculator p1"
 git push
 
