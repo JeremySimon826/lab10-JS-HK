@@ -1,5 +1,7 @@
 # https://github.com/JeremySimon826/lab10-JS-HK.git
 
+# Partner 1: Jeremy Simon
+# Partner 2: Harmon Klein
 """
 calculator.py
 - Defines functions used to create a simple calculator
