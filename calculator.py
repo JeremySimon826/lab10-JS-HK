@@ -32,6 +32,16 @@ def divide(a, b):
     else:
         raise ZeroDivisionError
 
+def mul(a, b):
+    return a*b
+
+def div(a, b):
+    if a!=0:
+        return b/a
+    else:
+        raise ZeroDivisionError
+
+
 def logarithm(a, b):
     if a>0 and b>0 and a!=1:
         return math.log(b,a)
