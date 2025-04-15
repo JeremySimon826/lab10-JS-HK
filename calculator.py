@@ -1,10 +1,11 @@
+# https://github.com/JeremySimon826/lab10-JS-HK.git
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
 
 One function per operation, in order.
 """
-# https://github.com/JeremySimon826/lab10-JS-HK.git
 
 import math
 
